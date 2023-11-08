@@ -1,2 +1,2 @@
 # MERN-Base-Template
-my bolier plate template for building MERN stack applications
+My Bolier plate code for building MERN stack applications
